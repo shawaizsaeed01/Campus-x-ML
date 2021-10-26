@@ -1,0 +1,2 @@
+# Multicollinearity_in_Linaer_Regression
+Multicollinearity_in_Linaer_Regression
