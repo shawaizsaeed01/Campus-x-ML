@@ -1,2 +1,1 @@
 # Campus-x
-Multicollinearity_in_Linaer_Regression
